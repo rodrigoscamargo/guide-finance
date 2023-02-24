@@ -49,7 +49,7 @@ O padrão MVC+S nos dá uma arquitetura muito mais legível, controlável e orga
 - [X] Definir arquitetura a ser usada
 - [X] Criar widget para plotagem dos gráficos
 - [x] Implementar o gerenciamento de estados com GetX
-- [ ] Unit test do modulo pokedex
+- [ ] Unit tests
 - [ ] Integration test
 
 
